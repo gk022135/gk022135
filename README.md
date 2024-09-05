@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm [Gaurav]!
+# 👋 Hello, I'm Gaurav!
 
 🎓 **BTech Student in Computer Science and Engineering (CSE)**  
-🌱 **Currently Learning**: Full-stack development, Data Structures & Algorithms, Machine Learning  
+🌱 **Currently Learning**: Full-stack development, Data Structures & Algorithms,  
 💻 **Languages**: C++, Python, JavaScript  
-🚀 **Passionate About**: Problem-solving, Open Source, AI & ML
+🚀 **Passionate About**: Problem-solving, Open Source,
 
 ---
 
-<--- ## 💼 Projects
+## 💼 Projects
 
 Here are some of my latest projects:
-
+<!---
 - **🌐 [Project 1 Name](https://github.com/yourusername/project1)**  
   A brief description of the project (e.g., web development, backend system, etc.)
   
 - **🧠 [Project 2 Name](https://github.com/yourusername/project2)**  
   A brief description of the project (e.g., machine learning model, AI-based project, etc.)
 
----
+--->
 
 ## 🔧 Skills
 
