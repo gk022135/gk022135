@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**gk022135/gk022135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm [Gaurav]!
 
-Here are some ideas to get you started:
+🎓 **BTech Student in Computer Science and Engineering (CSE)**  
+🌱 **Currently Learning**: Full-stack development, Data Structures & Algorithms, Machine Learning  
+💻 **Languages**: C++, Python, JavaScript  
+🚀 **Passionate About**: Problem-solving, Open Source, AI & ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<--- ## 💼 Projects
+
+Here are some of my latest projects:
+
+- **🌐 [Project 1 Name](https://github.com/yourusername/project1)**  
+  A brief description of the project (e.g., web development, backend system, etc.)
+  
+- **🧠 [Project 2 Name](https://github.com/yourusername/project2)**  
+  A brief description of the project (e.g., machine learning model, AI-based project, etc.)
+
+---
+
+## 🔧 Skills
+
+- **Languages**: C++, Python, JavaScript
+- **Frameworks**: React, Node.js, Express
+- **Tools**: Git, Docker, VS Code
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gk022135@)
+- **Email**: your.gk022135@.com
+
+Feel free to check out my repositories and let's collaborate on exciting projects! 😄
+
